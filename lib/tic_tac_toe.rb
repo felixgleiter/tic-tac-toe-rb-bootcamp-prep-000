@@ -95,4 +95,7 @@ def play(board)
       puts "Cat's Game!"
     end 
   end
+  won?(board)
+  won?(board)
+  won?(board)
 end
