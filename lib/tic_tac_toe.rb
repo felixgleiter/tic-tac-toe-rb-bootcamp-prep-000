@@ -96,6 +96,7 @@ def play(board)
     end 
   end
   won?(board)
+  puts("Congratulations X!")
   won?(board)
   won?(board)
 end
